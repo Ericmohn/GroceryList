@@ -1,4 +1,4 @@
-## Grocery Lise Made with React.js.
+## Grocery List Made with React.js.
 ![image](https://github.com/Ericmohn/GroceryList/assets/68788167/b888b695-ad12-4110-bb85-43ef518d83c2)
 
 
